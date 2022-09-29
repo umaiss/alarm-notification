@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/waleed.a/Desktop/MiracleMorningApp/node_modules/react-native-alarm-notification/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/waleed.a/.gradle/caches/transforms-2/files-2.1/18697181a63819dfd9f49545d4eb45bc/appcompat-1.1.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/waleed.a/Desktop/MiracleMorningApp/node_modules/react-native-alarm-notification/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/waleed.a/.gradle/caches/transforms-2/files-2.1/18697181a63819dfd9f49545d4eb45bc/appcompat-1.1.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/waleed.a/Desktop/MiracleMorningApp/node_modules/react-native-alarm-notification/android/build/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/waleed.a/.gradle/caches/transforms-2/files-2.1/18697181a63819dfd9f49545d4eb45bc/appcompat-1.1.0/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/waleed.a/Desktop/MiracleMorningApp/node_modules/react-native-alarm-notification/android/build/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/waleed.a/.gradle/caches/transforms-2/files-2.1/18697181a63819dfd9f49545d4eb45bc/appcompat-1.1.0/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/waleed.a/Desktop/MiracleMorningApp/node_modules/react-native-alarm-notification/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/waleed.a/.gradle/caches/transforms-2/files-2.1/477d8c2b9a02933a41c49418cf760ea6/core-1.1.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/waleed.a/Desktop/MiracleMorningApp/node_modules/react-native-alarm-notification/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/waleed.a/.gradle/caches/transforms-2/files-2.1/18697181a63819dfd9f49545d4eb45bc/appcompat-1.1.0/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

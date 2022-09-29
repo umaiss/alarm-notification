@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/waleed.a/Desktop/MiracleMorningApp/node_modules/react-native-alarm-notification/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/waleed.a/.gradle/caches/transforms-2/files-2.1/18697181a63819dfd9f49545d4eb45bc/appcompat-1.1.0/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/waleed.a/Desktop/MiracleMorningApp/node_modules/react-native-alarm-notification/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/waleed.a/.gradle/caches/transforms-2/files-2.1/18697181a63819dfd9f49545d4eb45bc/appcompat-1.1.0/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]
